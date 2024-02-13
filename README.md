@@ -1,6 +1,6 @@
 # PharmaStockProject
 -- This is a project I completed to familiarize myself furhter with SQL.
--- I have uploaded database that I created and this README file contains the queries I ran.
+-- I have uploaded the database that I created and this README file contains the queries I ran.
 -- The project provides an example of how to make informed decisions on investments into Pharmaceutical Companies. I "watched" the stock market, collected data, and performed basic analysis
 
 -- COLLECT DATA --
